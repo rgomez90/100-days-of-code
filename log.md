@@ -1,30 +1,16 @@
-# 100 Days Of Code - Log
+# RG's 100 Days Of Code - Log - Round 1 
+## .Net: WinForms, Asp.Net, EF - Web: CSS,HTML,JS,NodeJS,Express
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 01, Monday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned to use AutoMapper in .NET and implemented it in MultiMess Project and continue implementing by learning Entity Framework Code First.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts** AutoMapper seems to be really useful for mapping between types, more if the map don't require any dependencies are property names are same in source and target. I'm also finally understanding the differences between Model First and Code First in EF and starting to understand how to apply DDD principles in my app using EF.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Links**
+* [AutoMapper](http://automapper.org/)
 
 
-### Day 1: June 27, Monday
+### Day 2: January 2, Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress**: 
