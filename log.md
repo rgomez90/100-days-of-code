@@ -18,5 +18,5 @@
 **Thoughts** Start to understand why and when should have a separate domain and data model. More flexibility but more code and mantainance. Understanding that in Programming I need to be pragmatic, there a very few "fixed" laws to follow and often the answer it "it depends---so be pragmatic---and always have YAGNI present
 
 **Links** 
-* [Working with Enumerated Values in Entity Framework] (https://visualstudiomagazine.com/articles/2017/02/01/enumerated-values.aspx)
-* [Inheritance with EF Code First] (https://weblogs.asp.net/manavi/inheritance-mapping-strategies-with-entity-framework-code-first-ctp5-part-3-table-per-concrete-type-tpc-and-choosing-strategy-guidelines)
+* [Working with Enumerated Values in Entity Framework](https://visualstudiomagazine.com/articles/2017/02/01/enumerated-values.aspx)
+* [Inheritance with EF Code First](https://weblogs.asp.net/manavi/inheritance-mapping-strategies-with-entity-framework-code-first-ctp5-part-3-table-per-concrete-type-tpc-and-choosing-strategy-guidelines)
