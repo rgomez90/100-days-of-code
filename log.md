@@ -20,3 +20,65 @@
 **Links** 
 * [Working with Enumerated Values in Entity Framework](https://visualstudiomagazine.com/articles/2017/02/01/enumerated-values.aspx)
 * [Inheritance with EF Code First](https://weblogs.asp.net/manavi/inheritance-mapping-strategies-with-entity-framework-code-first-ctp5-part-3-table-per-concrete-type-tpc-and-choosing-strategy-guidelines)
+
+
+### Day 3: January 3, Wednesday
+
+**Progress:** 
+
+**Thoughts**
+
+**Links**
+
+### Day 4: January 4, Wednesday
+
+**Progress:** 
+
+**Thoughts**
+
+**Links**
+
+### Day 5: January 5, Wednesday
+
+**Progress:** Working on seeing the difference between having a persistance model and a domain model, or using only domain model.
+
+**Thoughts** Having  separated persistance objects obligates to mantain more code (mapping and objects). 
+I will try to indentify when is better to have 2 models instead of one. 
+
+**Links**
+
+### Day 6: January 6, Wednesday
+
+**Progress:** Trying to work with PLS. Start a project: "Make Website for Gaming League (2k). I've found a script (PLS) which can be good.
+			Today I tried to understand PLS, see if fits for me. If not will try to make my own. Not sure which stack to use.
+
+**Thoughts**
+
+**Links**
+
+### Day 7: January 7, Wednesday
+
+**Progress:** Worked on the new league website a bit. Continued PanojaFilms project implementing carousel for movies. Still learning CSS and bootstrap.
+Also trying to find other frameworks. At night, some exercises from C# Step by Step. Also have in mind another project to learn ASP.NET -> A league/tournament manager.
+
+**Thoughts** Having fun with CSS and bootstrap, but there are too many frameworks and libs. Bit difficult to get some overview. I think what's important is to understand
+the basics. After it you can choose between this world of libs, looking which fits better, since you understand your needs better.
+
+**Links**
+
+### Day 8: January 8, Monday
+
+**Progress:**  Worked on Movie Website project. Continue learning CSS. Specially modals, popovers and tooltips. Implemented some basic JS.
+
+**Thoughts** Getting quicker at coding, since I'm understanding how css and html work. Now, will improve my knowledge in DOM, JQuery and JavaScript.
+
+**Links**
+
+### Day 9: January 9, Tuesday
+
+**Progress:**  Mainly worked at movie project. Continued working on modals and popovers. Implemented some animations and tried to make an overview about animations libraries.
+
+**Thoughts** It looks like I can animate things using only CSS. I also could use JS. There are tons of libs available
+
+**Links** 
+[Some Animations libraries](https://medium.com/@cssgallery/best-css-animation-frameworks-714c5de013f1)
