@@ -82,3 +82,23 @@ the basics. After it you can choose between this world of libs, looking which fi
 
 **Links** 
 [Some Animations libraries](https://medium.com/@cssgallery/best-css-animation-frameworks-714c5de013f1)
+
+### Day 10: January 10, Wednesday
+
+**Progress:**  Continue working at friend's movie portfolio project. Customized the popovers with movie description and added some animations (Animate.css).
+
+**Thoughts** Playing with animations is awesome. Everytime I get tons of idea for what I could do with them.
+
+**Links** 
+[Animate.CSS](https://daneden.github.io/animate.css/)
+
+### Day 11: January 11, Wedse
+
+**Progress:**  Finish first preview of the movie portfolio. For the next days will focus on my desktop projects in C# to finish them.
+
+**Thoughts** 
+
+**Links** 
+[Some Animations libraries](https://medium.com/@cssgallery/best-css-animation-frameworks-714c5de013f1)
+
+
