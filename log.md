@@ -92,7 +92,7 @@ the basics. After it you can choose between this world of libs, looking which fi
 **Links** 
 [Animate.CSS](https://daneden.github.io/animate.css/)
 
-### Day 11: January 11, Wedse
+### Day 11: January 11, Thursday
 
 **Progress:**  Finish first preview of the movie portfolio. For the next days will focus on my desktop projects in C# to finish them.
 
@@ -101,4 +101,28 @@ the basics. After it you can choose between this world of libs, looking which fi
 **Links** 
 [Some Animations libraries](https://medium.com/@cssgallery/best-css-animation-frameworks-714c5de013f1)
 
+### Day 11: January 12, Friday
 
+**Progress:** Refactored domain and persistance in measurement project to fit business needs. I redesign the domain, so it mirrors better our context. Also reconfigured the mapping (since now using ihneritance).
+
+**Thoughts** Design  a domain model is indeed something that requires a lot of thought and time. You will always at start find better solutions, so you'll be making refactorings. Is also something I think I can get quicker with some experience, since I'll recognize things quicker. Having a well-designed Domain is core, since it will spare us a lot of headache.
+
+**Links** 
+* [DDD The good parts by Jimmy Bogard](https://www.youtube.com/watch?v=U6CeaA-Phqo&t=2s)
+* [Crafting Wicked Domain Models](https://www.youtube.com/watch?v=UYmTUw5LXwQ)
+
+### Day 11: January 13, Saturday
+
+**Progress:** Continued working on measuremente Project with VB. Implemented categories for measured devices. Persistance is close to be complete.  
+
+**Thoughts** Having a layered app, gives me the freedom to switch components without rewriting code. I also could deploy the different libraries to different PCs. Trade off is more code to write and manage. So **be pragmatic**, you won't always need a layered app.
+
+**Links** 
+
+### Day 11: January 14, Sunday
+
+**Progress:**  Wroten my first web app in Asp.Net deployed in Azure. Done some lessons from Goggle Udacity Course.
+
+**Thoughts** 
+
+**Links** 
