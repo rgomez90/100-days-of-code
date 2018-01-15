@@ -121,8 +121,10 @@ the basics. After it you can choose between this world of libs, looking which fi
 
 ### Day 11: January 14, Sunday
 
-**Progress:**  Wroten my first web app in Asp.Net deployed in Azure. Done some lessons from Goggle Udacity Course.
+**Progress:**  Wroten my first web app, a basic product website, in Asp.Net -- Learned Asp.Net basics, User authentication and improved my EF Code First knowlede. Also Done some lessons from Goggle Udacity Course.
 
-**Thoughts** 
+**Thoughts** Asp.Net seems to be really powerful. Have to made an overview of all different Asp.Net approaches (5 vs Core -- MVC, WebForm, SinglePage). Would be nice to compare it to other server side languages (NodeJs etc).
 
 **Links** 
+* [ASP.NET Identity](https://www.asp.net/identity)
+* [Getting started ASP.NET](https://code.msdn.microsoft.com/Getting-Started-with-221c01f5?cdn_id=2013-12-16-001)
