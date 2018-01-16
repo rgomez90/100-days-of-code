@@ -128,3 +128,7 @@ the basics. After it you can choose between this world of libs, looking which fi
 **Links** 
 * [ASP.NET Identity](https://www.asp.net/identity)
 * [Getting started ASP.NET](https://code.msdn.microsoft.com/Getting-Started-with-221c01f5?cdn_id=2013-12-16-001)
+
+### Day 11: January 15, Monday
+
+**Progress:**  Could not code because of travel. <<OFF>>		
