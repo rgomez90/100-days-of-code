@@ -32,3 +32,9 @@ Learned about **Grav**, **Bolt** and **Pico**.
 Buil first Test Grav on Azure.
 
 **Grav** appears to be the most mature and the way to go for complex, stable scenarios.
+
+### R1D4
+
+### ASP.NET MVC
+
+Continue learning about ASP.NET MVC. Done tutorial at [see](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started). 
